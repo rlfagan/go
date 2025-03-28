@@ -4,6 +4,7 @@ Go is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
 
 ![Gopher image](doc/gopher/fiveyears.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgo?ref=badge_shield)
 *Gopher image by [Renee French][rf], licensed under [Creative Commons 3.0 Attributions license][cc3-by].*
 
 Our canonical Git repository is located at https://go.googlesource.com/go.
@@ -42,3 +43,7 @@ places to ask questions about the Go language.
 
 [rf]: https://reneefrench.blogspot.com/
 [cc3-by]: https://creativecommons.org/licenses/by/3.0/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgo?ref=badge_large)
